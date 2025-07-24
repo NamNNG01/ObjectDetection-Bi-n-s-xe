@@ -1,7 +1,7 @@
 # ObjectDetection-Nhan_dien_bien_so_xe
 This project applies Object Detection techniques to detect and extract vehicle license plates from images. It can be used in traffic surveillance systems, smart parking lots, and vehicle access control solutions.
 <p align="center">
-  <img src="C:\Users\ADMIN\Desktop\Object Detection - biển số xe\ObjectDetection-Nhan_dien_bien_so_xe\demo\video1"><br/>
+  <img src="C:\Users\ADMIN\Desktop\Object Detection - biển số xe\ObjectDetection-Nhan_dien_bien_so_xe\demo\video1.gif"><br/>
   <i>Example output of YOLOv8 detecting license plates.</i>
 </p>
 **Features**
@@ -18,7 +18,7 @@ This project applies Object Detection techniques to detect and extract vehicle l
 **How to Use**
 - Train the model using your custom dataset for 50 epochs on GPU 0:
   
-    results = model.train(data="my_data.yaml", epochs=50, device='0', batch = 2, imgsz = 416)  # change to your "my_data.yaml" path
+    results = model.train(data="my_data.yaml", epochs=50, device='0', batch = 32, imgsz = 416)  # change to your "my_data.yaml" path
   
 - Predict the result:
   
