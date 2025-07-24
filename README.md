@@ -1,7 +1,7 @@
 # ObjectDetection-Nhan_dien_bien_so_xe
 This project applies Object Detection techniques to detect and extract vehicle license plates from images. It can be used in traffic surveillance systems, smart parking lots, and vehicle access control solutions.
 <p align="center">
-  <img src="Downloads/2025-07-2418-07-26-Trim-ezgif.com-video-to-gif-converter"><br/>
+  <img src="assets/2025-07-2418-07-26-Trim-ezgif.com-video-to-gif-converter"><br/>
   <i>Example output of YOLOv8 detecting license plates.</i>
 </p>
 **Features**
