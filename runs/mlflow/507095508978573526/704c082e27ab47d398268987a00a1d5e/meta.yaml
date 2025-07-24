@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/Object Detection - biển số xe/ObjectDetection-Nhan_dien_bien_so_xe/runs/mlflow/507095508978573526/704c082e27ab47d398268987a00a1d5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '507095508978573526'
+lifecycle_stage: active
+run_id: 704c082e27ab47d398268987a00a1d5e
+run_name: train11
+run_uuid: 704c082e27ab47d398268987a00a1d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753351486504
+status: 1
+tags: []
+user_id: ADMIN
