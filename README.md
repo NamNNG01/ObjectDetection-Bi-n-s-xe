@@ -1,7 +1,7 @@
 # ObjectDetection-Nhan_dien_bien_so_xe
 This project applies Object Detection techniques to detect and extract vehicle license plates from images. It can be used in traffic surveillance systems, smart parking lots, and vehicle access control solutions.
 <p align="center">
-  <img src="C:\Users\ADMIN\Desktop\Object Detection - biển số xe\ObjectDetection-Nhan_dien_bien_so_xe\demo\video1.gif"><br/>
+  <img src="demo/video1.gif"><br/>
   <i>Example output of YOLOv8 detecting license plates.</i>
 </p>
 **Features**
@@ -24,8 +24,7 @@ This project applies Object Detection techniques to detect and extract vehicle l
   
   results = model.predict(r"E:\Project\Object_Detection_Biensoxe\a.png", imgsz=416)
 
-- You do not need to use "batch = 2" and "imgsz = 416" if your GPU strong enough.
 
-- Change the image path in "predict.py" to detect
+- Change the image on web to detect
 
 
