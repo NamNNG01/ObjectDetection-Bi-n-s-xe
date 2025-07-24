@@ -20,11 +20,7 @@ This project applies Object Detection techniques to detect and extract vehicle l
   
     results = model.train(data="my_data.yaml", epochs=50, device='0', batch = 32, imgsz = 416)  # change to your "my_data.yaml" path
   
-- Predict the result:
-  
-  results = model.predict(r"E:\Project\Object_Detection_Biensoxe\a.png", imgsz=416)
-
-
+- Run app.py
 - Change the image on web to detect
 
 
